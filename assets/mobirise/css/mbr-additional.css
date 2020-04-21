@@ -709,6 +709,15 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rWMSollUy9 {
+  padding-top: 120px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rWMSollUy9 .mbr-text,
+.cid-rWMSollUy9 blockquote {
+  color: #767676;
+}
 .cid-rWHQITxDym .navbar {
   background: #0f7699;
   transition: none;
@@ -1117,8 +1126,8 @@ section.lazy-placeholder:after {
   color: #ffffff !important;
 }
 .cid-rWMp5n01id {
-  padding-top: 30px;
-  padding-bottom: 75px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 @media (max-width: 767px) {
